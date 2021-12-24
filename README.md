@@ -1,6 +1,6 @@
 ### Olá! sou o Samuel, mais conhecido como samuca 👋
 
-- 🌱 studying: Desenvolvimento full-satck.
+- 🌱 Focus: Back-end.
 - 💬 Ask me about: and off the computer, are you fine?.
 - ⚡ Fun fact: i'm terrible but i love playing Counter-Strike:GO haha.
 <div align="center">
