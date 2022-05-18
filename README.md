@@ -3,22 +3,7 @@
 - 🌱 Focus: WEB dev.
 - 💬 Ask me about: and off the computer, are you fine?.
 - ⚡ Fun fact: i'm terrible but i love playing Counter-Strike:GO haha.
-<div align="center">
-  <a href="https://github.com/Samuelflavio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Samuelflavio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelflavio&layout=compact&langs_count=7&theme=merko"/>
-</div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Samuca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samuca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samuca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Samuca-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Samuca-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="Samuca-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-    
-</div>
-  
   ##
   
   <div> 
